@@ -1,0 +1,1 @@
+--addons-path=addons,addons_onnet/onnet_localization,addons_onnet/my_generic_coa,addons_onnet/onnet_pos,addons_onnet/solid_taste,addons_onnet/on_SH
