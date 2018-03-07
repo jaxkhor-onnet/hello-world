@@ -1,1 +1,3 @@
 --addons-path=addons,addons_onnet/onnet_localization,addons_onnet/my_generic_coa,addons_onnet/onnet_pos,addons_onnet/solid_taste,addons_onnet/on_SH
+
+Not give you file here due to your repository is public, which anyone may will download and againest the copyright of Onnet. 
